@@ -1,6 +1,6 @@
 # Personal-Portfolio
 ## This is a Repo for my Personal Portfolio, 
-**Frontend: Plain HTML, CSS, and JavaScript**
+**Frontend: Plain HTML, CSS, and JavaScript**</br>
 **Deployment and Testing: Netfily and GitHub for Version Control Github Repo**
 
 **Deployed on Netfily:
